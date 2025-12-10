@@ -31,7 +31,7 @@ Data path: Telegram update → handlers → `IntakeFlow` → FSM → classificat
 
 ## Tech stack
 - Python 3.11+
-- [python-telegram-bot](https://python-telegram-bot.org/) v20
+- [python-telegram-bot](https://python-telegram-bot.org/) v21.x
 - SQLite (standard library)
 - Optional: OpenAI API (via `openai` SDK)
 - Utilities: `python-dotenv`, `logging`, `dataclasses`, `pytest` for tests
